@@ -13,7 +13,7 @@ Simple example of a CUDA kernel that adds two arrays together.
 ## To Compile CUDA Kernel
 
 ```bash
-/usr/local/cuda/bin/nvcc -ptx AddArraysKernel.cu -o AddArraysKernel.ptx
+/usr/local/cuda/bin/nvcc -ptx add_kernel.cu -o add_kernel.ptx
 ```
 
 ## To Run

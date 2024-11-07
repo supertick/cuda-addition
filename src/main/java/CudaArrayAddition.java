@@ -22,7 +22,6 @@ import org.bytedeco.javacpp.IntPointer;
 import org.bytedeco.javacpp.LongPointer;
 import org.bytedeco.javacpp.PointerPointer;
 import org.bytedeco.javacpp.Pointer;
-// import org.bytedeco.cuda.cudart.CUctx_st;
 import org.bytedeco.cuda.cudart.CUfunc_st;
 import org.bytedeco.cuda.cudart.CUmod_st;
 
